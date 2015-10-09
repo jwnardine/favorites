@@ -4,10 +4,14 @@
 
 p {
   font-size: 20px;
-  color: blue;
+  font-weight: bold;
 }
 
 span {
   font size: 16px;
-  color: red
+  color: blue
+}
+
+h1 {
+  font-weight: bold
 }
